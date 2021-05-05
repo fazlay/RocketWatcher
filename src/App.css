@@ -1,0 +1,39 @@
+* {
+  background-color: rgb(247, 242, 242);
+}
+
+.filter-container {
+  float: left;
+
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+
+.year-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 180px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.lunch-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 180px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.land-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 180px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
